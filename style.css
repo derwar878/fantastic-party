@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    border: 7px solid rgb(170, 124, 219);
+    border-radius: 20px;
+    padding: 6px;
+}
+
+.header {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.name {
+    color: #6A5ACD;
+
+}
+
+footer p {
+    background:whitesmoke;
+}
+footer {
+    background: #EE82EE;
+    border: 2px solid #BA55D3
+}
+
+nav{
+    border:7px solid #9370DB;
+    border-radius: 15px;
+    padding:15px;
+    margin:8px;
+    text-align:center;
+}
+nav a{
+    color:blueviolet;
+    text-decoration:none;
+    margin:23px;
+}
